@@ -9,7 +9,7 @@ Automatically convert vulnerability scan reports into professional Word document
 - 📄 Downloads a professional .docx with cover page, summary tables, and detailed findings
 
 ## Live Demo
-> https://YOUR_USERNAME.github.io/vuln-report-automation/
+> https://raju-2005.github.io/vuln-report-automation/
 
 ## Setup
 
